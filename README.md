@@ -1,7 +1,7 @@
 # AssaultCube-v1.2.0.2-ammoModifier
 Very simple Proof-of-Concept, created with the help of online tutorials and research
 
-## AC ammoModier
+## AC ammoModifier
 
 This program uses the Windows API to read, and then write the process memory of the game "Assault Cube", in its game version 1.2.0.2
 
