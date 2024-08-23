@@ -15,6 +15,6 @@ Compile this project under x86 Release version
 ## Why did I create this?
 
 More so as a proof of concept of things I took the time to learn over the span of a Summer. Things such as pointers, Value Scanning && Memory Viewing, structures in memory,
-offsets, Multilevel Pointers, the Windows API, and with this project External Memory Injection, all play a role in the end product of this proof-of-concept program.
+offsets, Multilevel Pointers, the Windows API, various data types and string types, and with this project External Memory Injection, all play a role in the end product of this proof-of-concept program.
 
 Hope you enjoy! More to come later when I have free time. School's starting up and I definitely won't have as much time to dedicate to studying this stuff further (With calculus and all :p)
